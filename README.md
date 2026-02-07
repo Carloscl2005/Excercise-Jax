@@ -80,7 +80,7 @@ JAX es una herramienta de bajo nivel que se complementa con librerías especiali
 <br><br>
 
 ## 📖 Resultados obtenidos entrenando con MNIST
-Cabe recalcar que para esta prueba se ha hecho uso de Google Colab haciendo uso de su **GPU T4**
+Cabe recalcar que para esta prueba se ha hecho uso del cuaderno especificado en este mismo repositorio **VS_Jax_Tensorflow_Pytorch.ipynb** haciendo uso de Google Colab con su **GPU T4**
 
 <br>
 
