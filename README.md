@@ -1,4 +1,8 @@
-# Excersise_Jax
+# JAX Performance Benchmark
+<div align="center">
+  <img src="images/main_image.png" width="80%" style="display:block; margin:auto;">
+</div>
+<br>
 
 # ¿Qué es JAX?
 
@@ -72,3 +76,28 @@ JAX es una herramienta de bajo nivel que se complementa con librerías especiali
 ---
 
 **En resumen:** JAX convierte código matemático simple en programas acelerados y diferenciables, ideales para IA, ciencia y simulación de alto rendimiento.
+
+<br><br>
+
+## 📖 Resultados obtenidos
+Cabe recalcar que para esta prueba se ha hecho uso de Google Colab haciendo uso de su **GPU T4**
+
+<br>
+
+<img src="images/table.png" style="width: 70%; display:block; margin:auto;">
+
+---
+
+<br><br>
+## Bibliografía
+### 🛠️ Librerías del Ecosistema
+
+* **[Flax](https://github.com/google/flax)** – El framework de redes neuronales más usado para JAX.
+* **[Optax](https://github.com/google-deepmind/optax)** – Librería de procesamiento de gradientes y optimización (DeepMind).
+* **[Chex](https://github.com/google-deepmind/chex)** – Utilidades para testing y verificación de tipos en JAX.
+
+---
+
+### 🤖 Asistencia y Herramientas de IA
+
+* **[Gemini](https://gemini.google.com/) (Google AI)** – Utilizado como asistente de IA para el apoyo en la estructuración y explicación del benchmark.
